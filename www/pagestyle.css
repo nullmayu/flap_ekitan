@@ -1,0 +1,49 @@
+@charset "UTF-8";
+
+* {
+  margin: 0px;
+  padding: 0px;
+  font-family: "sans-serif";
+  color: #000000;
+}
+
+h1 {
+  margin: 10px 10px;
+}
+
+p,
+li{
+  margin: 0px 10px;
+}
+
+button {
+  font-size: 20px;
+  min-width: 200px;
+  margin: 0px 10px;
+}
+
+hr {
+  border: 0;
+  height: 1px;
+  background-color: #000000;
+  margin: 10px 0px;
+}
+
+ul,
+ol {
+  padding: 10px 25px;
+}
+
+.info {
+  margin: 10px;
+}
+
+#maincanvas {
+  width: 100%;
+}
+
+#urlform {
+  margin: 5px 10px;
+  width: 80%;
+  display: block;
+}

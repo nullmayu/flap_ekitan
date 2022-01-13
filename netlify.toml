@@ -1,0 +1,4 @@
+[build]
+  publish = "www/"
+  functions = "functions/"
+  commands="npm run build:netlify"
